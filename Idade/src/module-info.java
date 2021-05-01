@@ -1,0 +1,3 @@
+module Idade {
+	exports idade;
+}
